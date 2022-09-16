@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the prompts for the Third Essay, which focuses
+  on the novel The Kiss of the Spider Woman.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Essays

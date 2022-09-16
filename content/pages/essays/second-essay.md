@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "This section contains prompts for the Second Essay, which focuses on\
+  \ the books Th\xE9r\xE8se Raquin and Dom Casmurro."
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Essays
